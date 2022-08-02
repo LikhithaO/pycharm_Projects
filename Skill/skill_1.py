@@ -25,5 +25,3 @@ class Traveller(RailwayCounter):
 
 rider = Traveller()
 rider.print_receipt()
-
-
